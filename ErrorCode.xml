@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+
+   <!-- 0	公用错误码模块-->
+	<err>
+		<code>0</code>
+		<desc>成功</desc>
+	</err>
+	<err>
+		<code>2</code>
+		<desc>操作失败</desc>
+	</err>
+	<err>
+		<code>3</code>
+		<desc>类型错误</desc>
+	</err>
+
+</xml>
