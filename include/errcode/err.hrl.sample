@@ -1,0 +1,11 @@
+%% =======================================
+%% @doc {协议前缀} {模块名}
+%% 错误码定义（与errorCode.xml同步 ）
+%% =======================================
+
+-ifndef(ERR_HRL).
+-define(ERR_HRL, ok).		%% ERR_HRL START
+
+-define(ERR_SUCCEED, 0).		%% 成功
+
+-endif.		%% ERR_HRL END
